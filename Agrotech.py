@@ -8,3 +8,4 @@
 import pymongo
 
 db_client = pymongo 
+"""Кря"""
